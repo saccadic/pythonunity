@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Runtime/python/
+Runtime/Miniconda3-latest-Windows-x86_64.exe
